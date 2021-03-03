@@ -9,6 +9,7 @@ Conteúdo desse repositório:
 * `PAP-04.pdf`: slides sobre unificação
 * `exercícios1.pdf`: lista de exercícios sobre Haskell
 * `exercícios2.pdf`: lista de exercícios sobre o cálculo lambda
+* `trabalho.md`: descrição do trabalho final
 
 Leitura sugerida:
 * Livro _Haskell: Uma Abordagem Prática_ (autor: Claudio Cesar de Sá)
